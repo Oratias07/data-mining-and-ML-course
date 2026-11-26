@@ -38,6 +38,4 @@ data, model and evaluation approach and verify the results.
 - `Data_Mining_LabN.ipynb` - the starter notebook with demo code and `TODO` cells.
 - `*_solution.ipynb` - the completed notebook.
 - `*.py` - the notebook exported as a plain Python script (code only).
-- `*.pdf` printouts - the notebook printed to PDF: either code only (from the `.py`)
-  or the full notebook with its outputs and plots.
-- `.url` files - links to interactive simulators used in class.
+- `labNN.pdf` - the full notebook printed to PDF, with outputs and plots.
